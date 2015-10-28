@@ -167,6 +167,15 @@ a:focus {
 .intro .intro-body .intro-text {
     font-size: 18px;
 }
+.avatar {
+    width:128px;
+    margin: 10px;
+    border:10px solid white;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
 
 @media(min-width:768px) {
     .intro {
